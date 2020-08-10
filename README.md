@@ -1,1 +1,0 @@
-# demo-medical-image-inpainting-client
